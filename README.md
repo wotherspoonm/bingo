@@ -8,10 +8,10 @@ end of the list and that there are no spaces before a new line.
 You also need at least 4 tasks to create the smallest sized bingo board.
 An example is shown below:
 
-Do a handstand
-Jump 60 times
-Do 30 push ups
-Hold your breath for 40 seconds
+Do a handstand  
+Jump 60 times  
+Do 30 push ups  
+Hold your breath for 40 seconds  
 
 Once the txt file is ready, it can be loaded on the web page and you can generate a bingo
 card from it.
